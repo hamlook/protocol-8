@@ -1,9 +1,10 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://media1.giphy.com/media/SVCSsoKU5v6ZJLk07n/giphy.gif" width="800" height="300"/>
+</p>
 <!--
 **protocol-8/protocol-8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->                    
